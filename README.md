@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annubis547
-- 👀 I’m interested in programing, bms systems abd linux
+- 👀 I’m interested in programing, bms systems and linux
 - 🌱 I’m currently learning linux command line
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dubliner547@gmail.com
